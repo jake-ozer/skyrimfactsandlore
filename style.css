@@ -1,0 +1,76 @@
+* {
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+.main-content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1250px;
+	padding-bottom: 150px;
+	border-radius: 25px;
+	padding: 50px;
+	background-color:rgba(18,18,18,0.9);
+}
+
+html,
+body {
+	background-image: url("skyrim-background4.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+h1 {
+	text-align: center;
+	padding: 50px;
+	font-size: 52px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+.hold-image {
+	float: right;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+p,
+.holds-body {
+	font-size: 18px;
+}
+
+.holds-p {
+	padding-bottom: 200px;
+	width: 1000px;
+	height: 300px;
+}
+
+li {
+	padding: 10px;
+}
+
+
+.fact-img {
+	width: 350px;
+	height: 350px;
+}
+
+figure {
+	display: inline-block;
+    margin: 30px;
+}
+
+figcaption {
+	text-align: center;
+	padding: 15px;
+	font-size: 18px;
+}
